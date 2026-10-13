@@ -1,5 +1,7 @@
 # Hi, I'm Haozi 👋
 
+<img src="https://personal-website-iota-lac-51.vercel.app/photos/hero/portrait-hero.avif" alt="Haozi" width="180" />
+
 **AI 产品经理 · 用产品的脑子做事，用设计师的眼睛看世界。**
 
 我是任文浩，关注 AI 产品从想法到落地的过程：找到真实问题，做出原型，再验证它是否有用。这里记录我的产品实验、日常使用的 Agent Skills，以及一些有趣的小作品。
